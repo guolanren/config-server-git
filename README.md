@@ -1,2 +1,2 @@
-# microservice-config-server
-微服务配置中心服务器
+# config-server-git
+配置中心服务器
